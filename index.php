@@ -9,6 +9,8 @@
 <body <?php body_class(); ?>>
     <h1>Welcome to <?php bloginfo('name'); ?></h1>
     <p>This is my first testimonial.</p>
+        <p>This is my first testimonial.</p>
+            <p>This is my first testimonial.</p>
     <?php wp_footer (); ?>
     
 </body>
